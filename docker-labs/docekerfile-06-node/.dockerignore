@@ -1,0 +1,8 @@
+##Nada de esto lo va a poner en la image
+
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+.git
+.gitgnore
